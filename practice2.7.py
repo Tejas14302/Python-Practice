@@ -1,0 +1,18 @@
+a=100
+print(a)
+a+=10
+print(a)
+a-=10
+print(a)
+a*=2
+print(a)
+a/=5
+print(a)
+'''
+    output:
+    100
+    110
+    100
+    200
+    40.0
+'''
